@@ -1,0 +1,10 @@
+{
+  "description": "Easily customize photo filters and navigate to desired destinations with a user-friendly interface designed for seamless photo editing and sharing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
